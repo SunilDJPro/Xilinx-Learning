@@ -1,2 +1,2 @@
 # Xilinx-Learning
-My Learning repo using Xilinx FPGA HW and Vivido toolkit.
+My Learning repo using Xilinx FPGA HW and Vivado toolkit.
