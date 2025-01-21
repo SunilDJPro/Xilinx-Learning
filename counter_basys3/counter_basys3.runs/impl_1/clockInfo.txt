@@ -1,6 +1,6 @@
 -------------------------------------
 | Tool Version : Vivado v.2024.2
-| Date         : Tue Jan 21 21:27:33 2025
+| Date         : Tue Jan 21 22:09:16 2025
 | Host         : HPCR7Z3080Ti
 | Design       : design_1
 | Device       : xc7a35t-cpg236-1--

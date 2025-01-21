@@ -3,12 +3,12 @@ module top(
     input reset,            // Reset button
     output [6:0] seg,       // 7-segment segments
     output [3:0] an,        // 7-segment digit select
-    output reg [15:0] led   // LEDs
+    output [15:0] led       // LEDs for binary display
 );
 
     // Internal signals
     wire slow_clk;
-    wire [13:0] count;
+    wire [13:0] count;  // 14-bit counter
     wire [3:0] thousands, hundreds, tens, ones;
     
     // Clock divider instantiation
@@ -46,9 +46,9 @@ module top(
         .seg(seg)
     );
     
-    // LED control
-    always @* begin
-        led = (count == 9999) ? 16'hFFFF : 16'h0000;
-    end
+    // LED control - Directly connect the 14-bit counter to LEDs
+    // LED[15:14] = 00 (unused)
+    // LED[13:0] = binary counter value
+    assign led = {2'b00, count};
 
 endmodule
