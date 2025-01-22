@@ -1,0 +1,11 @@
+===================================
+Configuration Memory information
+===================================
+File Format        MCS
+Interface          SPIX1
+Size               4M
+Start Address      0x00000000
+End Address        0x003FFFFF
+
+Addr1         Addr2         Date                    File(s)
+0x00000000    0x0021728B    Jan 22 20:26:06 2025    /home/sunildj/Xilinx-Learning/BinSeg_basys3_v1/BinSeg_basys3_v1.runs/impl_1/top.bit
