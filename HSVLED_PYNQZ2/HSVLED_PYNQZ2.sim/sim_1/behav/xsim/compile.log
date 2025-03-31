@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/sunil/Xilinx-Learning/HSVLED_PYNQZ2/HSVLED_PYNQZ2.srcs/sources_1/new/hsv_color_cycle.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module hsv_color_cycle
+ERROR: [VRFC 10-8885] declarations are not allowed in an unnamed block [/home/sunil/Xilinx-Learning/HSVLED_PYNQZ2/HSVLED_PYNQZ2.srcs/sources_1/new/hsv_color_cycle.v:71]
+ERROR: [VRFC 10-8530] module 'hsv_color_cycle' is ignored due to previous errors [/home/sunil/Xilinx-Learning/HSVLED_PYNQZ2/HSVLED_PYNQZ2.srcs/sources_1/new/hsv_color_cycle.v:3]
