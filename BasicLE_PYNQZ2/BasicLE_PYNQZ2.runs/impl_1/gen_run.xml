@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7z020clg400-1" LaunchTime="1743693090">
+  <File Type="ROUTE-RQS-RPT" Name="route_report_qor_suggestions_0.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS" Name="basic_le_demo_postroute_physopted.rqs"/>
+  <File Type="ROUTE-RQS" Name="basic_le_demo_routed.rqs"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="BG-BGN" Name="basic_le_demo.bgn"/>
+  <File Type="BITSTR-SYSDEF" Name="basic_le_demo.sysdef"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="basic_le_demo.ltx"/>
+  <File Type="RBD_FILE" Name="basic_le_demo.rbd"/>
+  <File Type="NPI_FILE" Name="basic_le_demo.npi"/>
+  <File Type="RNPI_FILE" Name="basic_le_demo.rnpi"/>
+  <File Type="CFI_FILE" Name="basic_le_demo.cfi"/>
+  <File Type="RCFI_FILE" Name="basic_le_demo.rcfi"/>
+  <File Type="PL-PDI-FILE" Name="basic_le_demo_pld.pdi"/>
+  <File Type="BOOT-PDI-FILE" Name="basic_le_demo_boot.pdi"/>
+  <File Type="RDI-RDI" Name="basic_le_demo.vdi"/>
+  <File Type="PDI-FILE" Name="basic_le_demo.pdi"/>
+  <File Type="BITSTR-MMI" Name="basic_le_demo.mmi"/>
+  <File Type="BITSTR-BMM" Name="basic_le_demo_bd.bmm"/>
+  <File Type="BITSTR-NKY" Name="basic_le_demo.nky"/>
+  <File Type="BITSTR-RBT" Name="basic_le_demo.rbt"/>
+  <File Type="BITSTR-MSK" Name="basic_le_demo.msk"/>
+  <File Type="BG-BIN" Name="basic_le_demo.bin"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS-RPT" Name="postroute_physopt_report_qor_suggestions_0.rpt"/>
+  <File Type="BG-BIT" Name="basic_le_demo.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="basic_le_demo_bus_skew_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="basic_le_demo_bus_skew_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="basic_le_demo_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="basic_le_demo_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="basic_le_demo_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="basic_le_demo_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="basic_le_demo_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="basic_le_demo_postroute_physopt.dcp"/>
+  <File Type="BG-DRC" Name="basic_le_demo.drc"/>
+  <File Type="ROUTE-RQS-PB" Name="basic_le_demo_rqs_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="basic_le_demo_bus_skew_routed.rpx"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="basic_le_demo_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW" Name="basic_le_demo_bus_skew_routed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="basic_le_demo_utilization_placed.pb"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="basic_le_demo_methodology_drc_opted.rpt"/>
+  <File Type="PLACE-UTIL" Name="basic_le_demo_utilization_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="basic_le_demo_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-IO" Name="basic_le_demo_io_placed.rpt"/>
+  <File Type="PHYSOPT-TIMING" Name="basic_le_demo_timing_summary_physopted.rpt"/>
+  <File Type="PWROPT-DRC" Name="basic_le_demo_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="basic_le_demo_timing_summary_pwropted.rpt"/>
+  <File Type="OPT-DRC" Name="basic_le_demo_drc_opted.rpt"/>
+  <File Type="PLACE-TIMING" Name="basic_le_demo_timing_summary_placed.rpt"/>
+  <File Type="INIT-TIMING" Name="basic_le_demo_timing_summary_init.rpt"/>
+  <File Type="PA-TCL" Name="basic_le_demo.tcl"/>
+  <File Type="PLACE-CTRL" Name="basic_le_demo_control_sets_placed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="basic_le_demo_methodology_drc_routed.rpt"/>
+  <File Type="OPT-DCP" Name="basic_le_demo_opt.dcp"/>
+  <File Type="OPT-RQA-PB" Name="basic_le_demo_rqa_opted.pb"/>
+  <File Type="OPT-HWDEF" Name="basic_le_demo.hwdef"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="basic_le_demo_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="REPORTS-TCL" Name="basic_le_demo_reports.tcl"/>
+  <File Type="OPT-TIMING" Name="basic_le_demo_timing_summary_opted.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="basic_le_demo_incremental_reuse_placed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="basic_le_demo_methodology_drc_routed.pb"/>
+  <File Type="PLACE-DCP" Name="basic_le_demo_placed.dcp"/>
+  <File Type="PLACE-RQA-PB" Name="basic_le_demo_rqa_placed.pb"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="basic_le_demo_incremental_reuse_pre_placed.rpt"/>
+  <File Type="ROUTE-DRC-RPX" Name="basic_le_demo_drc_routed.rpx"/>
+  <File Type="PWROPT-DCP" Name="basic_le_demo_pwropt.dcp"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="basic_le_demo_postplace_pwropt.dcp"/>
+  <File Type="PHYSOPT-DCP" Name="basic_le_demo_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="basic_le_demo_drc_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="basic_le_demo_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="basic_le_demo_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="basic_le_demo_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="basic_le_demo_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="basic_le_demo_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-DRC-PB" Name="basic_le_demo_drc_routed.pb"/>
+  <File Type="ROUTE-PWR" Name="basic_le_demo_power_routed.rpt"/>
+  <File Type="ROUTE-PWR-SUM" Name="basic_le_demo_power_summary_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="basic_le_demo_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="basic_le_demo_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="basic_le_demo_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="basic_le_demo_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="basic_le_demo_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="basic_le_demo_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="basic_le_demo_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="basic_le_demo_clock_utilization_routed.rpt"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/basic_le_demo.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/basic_le_demo_tb.v">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="basic_le_demo"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1" RelGenDir="$PGENDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/new/PYNQZ2.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1" RelGenDir="$PGENDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2024">
+      <Desc>Default settings for Implementation.</Desc>
+    </StratHandle>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>
